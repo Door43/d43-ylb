@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/ylb|Ethnologue data]]
 
-
 **Resources**
 
   * [[ylb:obs|Open Bible Stories (ylb)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:ylb:obs:status}}
